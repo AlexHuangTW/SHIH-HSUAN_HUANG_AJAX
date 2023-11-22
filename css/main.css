@@ -23,6 +23,19 @@ p {
   font-size: 16px;
 }
 
+body {
+  background-color: #000000;
+}
+
+.material-heading, .material-description {
+  color: #fff;
+}
+
+#material-title {
+  color: #fff;
+  font-size: 2.5rem;
+}
+
 model-viewer {
   width: auto;
   max-width: 1200px;
@@ -178,4 +191,9 @@ model-viewer > #ar-prompt > img {
 
 #material-title {
   text-align: center;
+}
+
+#material-list li {
+  list-style-type: decimal;
+  color: #ffffff;
 }/*# sourceMappingURL=main.css.map */
