@@ -1,0 +1,16 @@
+// colors
+$backgroubd-color: #000000;
+$color-white: #fff;
+
+body {
+    background-color: $backgroubd-color;
+}
+
+.material-heading, .material-description {
+    color: $color-white;
+}
+
+#material-title {
+    color: $color-white;
+    font-size: 2.5rem;
+}
