@@ -1,0 +1,2 @@
+# SHIH-HSUAN_HUANG_AJAX
+ It’s <me to put it all together! Use everything we’ve covered so far - SASS, AJAX, the template element and the Fetch API to make the Earbuds Model Page dynamic. You will be provided with links to an API which will output informa<on about the earbuds as JSON. You will use the Fetch API to retrieve the data on page load and update the view as the user interacts with the hotspots.
